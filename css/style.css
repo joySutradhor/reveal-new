@@ -1,0 +1,25 @@
+.carousel-one{
+    background-image: url(../image/carousel/1.jpg);
+    background-repeat: no-repeat;
+    height:100vh;
+    background-size: cover;
+}
+.carousel-two{
+    background-image: url(../image/carousel/2.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel-three{
+    background-image: url(../image/carousel/3.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.client>img{
+    width: 150px;
+}
+.follow{
+    background-color: #0C2E8A;
+    color: #FFFFFF;
+}
